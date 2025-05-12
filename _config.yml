@@ -3,8 +3,6 @@
 #description: Certified Data Scientist| AUE Student| Mentor ArewaDs
 #show_downloads: False
 #theme: jekyll-theme-minimal
-
-
 title: Al-amin Hamza Nababa
 logo: /files/profilepic.png
 description: >
@@ -23,5 +21,5 @@ social_links:
   email: mailto:your.alaminhnab4@gmail.com
 
 # Optional: Add Google Analytics or custom CSS (if needed)
-google_analytics: UA-XXXXXXXXX-X
+# google_analytics: UA-XXXXXXXXX-X
 # custom_css: /assets/css/custom.css
