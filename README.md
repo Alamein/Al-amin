@@ -21,13 +21,13 @@
         
 
 ## Work Experience
-**Physics & Mathematics Instructor @ STARACADEMY Extra Moral Lesson Kano State  (_Feb 2019 - Present_)**
-**Software Engineer @ STARACADEMY Extra Moral Lesson Kano State  (_January 2021 - Present_)**
-**Data Science and Machine Learning Fellow @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_June 2023 - March 2024_)**
-**Deep Learning Felolow  @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_April 2024 - Sept 2024_)**
-**Natural Language Processing Fellow @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_Dec 2024 - Present_)**
-**Mentor @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_Dec 2024 - Present_)**
-**Python Programming, Data Analysis and Visualization @ [3MTT](https://3mtt.nitda.gov.ng/) (_Jan 2025 - Present_)**
+- **Physics & Mathematics Instructor @ STARACADEMY Extra Moral Lesson Kano State  (_Feb 2019 - Present_)**
+- **Software Engineer @ STARACADEMY Extra Moral Lesson Kano State  (_January 2021 - Present_)**
+- **Data Science and Machine Learning Fellow @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_June 2023 - March 2024_)**
+- **Deep Learning Felolow  @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_April 2024 - Sept 2024_)**
+- **Natural Language Processing Fellow @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_Dec 2024 - Present_)**
+- **Mentor @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_Dec 2024 - Present_)**
+- **Python Programming, Data Analysis and Visualization @ [3MTT](https://3mtt.nitda.gov.ng/) (_Jan 2025 - Present_)**
 
 <!--**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
@@ -38,6 +38,7 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes-->
 
 ## Projects
+Find Al-amin H Nababa's Projects' [Here](https://github.com/Alamein)
 <!--### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
