@@ -8,39 +8,27 @@
 - B.Eng., Automotive Engineering | Aliko Dangote University Of Science and Technology (ADUSTECH) (_Currently Level 300 Student_)
 - Complete A.I. Machine Learning and Data Science: Zero to Mastery | Zero To Mastery Academy (ZTM)
 
-\cvsection{CERTIFICATES}
-            \cvevent{THIRTY DAYS OF PYTHON}{| ArewaDS | Google Research}{24 -- 03 -- 2023}{Certification ID: ADS-23-PY-004}
-        
-        \divider
-        \cvevent{INTRODUCTION TO PROGRAMMING}{| Kaggle}{09 -- 11 -- 2023}
-
-        \divider
-        
-        \cvevent{PYTHON PROGRAMMING}{| Kaggle}{13 -- 11 -- 2023}
-
-        \divider
-        \cvevent{INTRO TO MACHINE LEANING}{| Kaggle}{16 -- 11 -- 2023}
-
-        \divider
-
-        \cvevent{INTRODUCTION TO ARTIFICIAL INTELLIGENCE}{| OPENCLASSROOM}{16 -- 11 -- 2023}{Certification ID: 1008700983}
-
-        \divider
-         \cvevent{NEURAL NETWORK AND DEEP LEARNING}{| COURSERA}{10 -- 11 -- 2023}{Verification link: https://coursera.org/share/bb39ced00a247ed3efba0260548118f9}
-
-         \divider
-        \cvevent{PYTHON PROGRAMMING}{| OPENCLASSROM}{21 -- 11 -- 2023}{Certification ID:  9797923898}
-
-        \divider
-
-        \cvevent{COMMAND LINE TERMINAL}{| OPENCLASSROOM}{23 -- 11 -- 2023}{Certification ID: 8385917611}
-
-        \divider
-
-        \cvevent{DATA SCIENCE AND MACHINE LEARNING}{| ArewaDS | Google Research}{25 -- 07 -- 2023}
+## CERTIFICATES
+- THIRTY DAYS OF PYTHON | ArewaDS | Google Research | Date: 24 -- 03 -- 2023 |Certification ID: ...<!--ADS-23-PY-004-->
+- INTRODUCTION TO PROGRAMMING | Kaggle | Date: 09 -- 11 -- 2023
+- PYTHON PROGRAMMING | Kaggle | Date: 13 -- 11 -- 2023
+- INTRO TO MACHINE LEANING | Kaggle | Date: 16 -- 11 -- 2023
+- INTRODUCTION TO ARTIFICIAL INTELLIGENCE | OPENCLASSROOM | Date: 16 -- 11 -- 2023 | Certification ID: ...<!--1008700983-->
+- NEURAL NETWORK AND DEEP LEARNING | COURSERA | Date: 10 -- 11 -- 2023 | Verification link: ...<!--https://coursera.org/share/bb39ced00a247ed3efba0260548118f9-->
+- PYTHON PROGRAMMING | OPENCLASSROM | Date: 21 -- 11 -- 2023 | Certification ID:  ...<!--9797923898-->
+- COMMAND LINE TERMINAL | OPENCLASSROOM | Date: 23 -- 11 -- 2023 | Certification ID: ...<!--8385917611-->
+- DATA SCIENCE AND MACHINE LEARNING | ArewaDS | Google Research | Date: 25 -- 07 -- 2023
         
 
 ## Work Experience
+**Physics & Mathematics Instructor @ STARACADEMY Extra Moral Lesson Kano State  (_Feb 2019 - Present_)**
+**Software Engineer @ STARACADEMY Extra Moral Lesson Kano State  (_January 2021 - Present_)**
+**Data Science and Machine Learning Fellow @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_June 2023 - March 2024_)**
+**Deep Learning Felolow  @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_April 2024 - Sept 2024_)**
+**Natural Language Processing Fellow @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_Dec 2024 - Present_)**
+**Mentor @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_Dec 2024 - Present_)**
+**Python Programming, Data Analysis and Visualization @ [3MTT](https://3mtt.nitda.gov.ng/) (_Jan 2025 - Present_)**
+
 <!--**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
@@ -72,7 +60,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019-->
 
-- [Data Science YouTube](https://Alamein.github.com)
+- [To be upload](https://Alamein.github.com)
 
 ## Publications
 <!--1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
@@ -85,7 +73,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13-->
 
-- [Data Science Blog](https://medium.com/@alaminhnab4)
+- [Alamin H Nababa Medium Data Science Blog](https://medium.com/@alaminhnab4)
 
 ## About
 I am a [Certified Associate Data Scientist](https://www.datacamp.com/certificate/DSA0013045162178) with strong expertise in Python programming, Machine Learning, and Deep Learning. With multiple certifications from platforms like [DataCamp]((https://www.datacamp.com/certificate/DSA0013045162178)), Arewa Data Science Academy, and [Coursera](https://coursera.org/share/f19f408c459a83601afd94498af84217), I combine technical prowess with creativity to solve real-world problems.
