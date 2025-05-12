@@ -3,6 +3,7 @@
 #description: Certified Data Scientist| AUE Student| Mentor ArewaDs
 #show_downloads: False
 #theme: jekyll-theme-minimal
+custom_css: /files/style.css
 title: Al-amin Hamza Nababa
 logo: /files/profilepic.png
 description: >
