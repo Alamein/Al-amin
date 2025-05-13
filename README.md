@@ -26,7 +26,7 @@
 - **Deep Learning Felolow  @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_April 2024 - Sept 2024_)**
 - **Natural Language Processing Fellow @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_Dec 2024 - Present_)**
 - **Mentor @ [Arewa Data Science Academy](https://arewadatascience.github.io/)  (_Dec 2024 - Present_)**
-- **Python Programming, Data Analysis and Visualization @ [3MTT](https://3mtt.nitda.gov.ng/) (_Jan 2025 - Present_)**
+- **Python Programming, Data Analysis and Visualization [Mentor](files/3MTT.mp4) @ [3MTT](https://3mtt.nitda.gov.ng/) (_Jan 2025 - Present_)**
   
 
 ## Projects
